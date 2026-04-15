@@ -36,3 +36,4 @@ This project demonstrates input validation, random number generation, simple gam
 
 - This project was created as part of introductory C# coursework.
 - It is a simple desktop game that focuses on core logic and user interaction.
+
