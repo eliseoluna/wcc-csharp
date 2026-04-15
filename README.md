@@ -1,10 +1,10 @@
-#C# Projects
+# C# Projects
 
 A collection of C# coursework projects built for CIS285 using Windows Forms and .NET Framework 4.7.2.
 
 This repository includes introductory desktop applications that focus on core programming skills such as event-driven UI development, input validation, arrays, game logic, and object-oriented programming.
 
-## Featured Projects
+## Featured Projects 
 
 ### Morse Code Generator
 
